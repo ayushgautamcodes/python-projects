@@ -15,5 +15,3 @@ if player_choice == computer_choice:
     print(" You won!")
 elif player_choice != computer_choice:
     print(" You lost!")
-else:
-    print("invalid choice!")
